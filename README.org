@@ -1,0 +1,9 @@
+* random-sampling
+
+Functions to generate random samples with various distributions
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/Shinmera/random-sampling.git |
+| commit  | 8557353                                             |
+| systems | random-sampling                                     |
+|---------+-----------------------------------------------------|
