@@ -4,6 +4,6 @@ Functions to generate random samples with various distributions
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/random-sampling.git |
-| commit  | c011e75                                             |
+| commit  | 965a613                                             |
 | systems | random-sampling                                     |
 |---------+-----------------------------------------------------|
