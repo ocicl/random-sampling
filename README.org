@@ -3,7 +3,7 @@
 Functions to generate random samples with various distributions
 
 |---------+-----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/random-sampling.git |
-| commit  | 1be8add                                             |
+| source  | git:https://codeberg.org/shinmera/random-sampling.git |
+| commit  | 0000000                                             |
 | systems | random-sampling                                     |
 |---------+-----------------------------------------------------|
